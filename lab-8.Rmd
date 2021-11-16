@@ -139,3 +139,4 @@ ggplot(data = home_predictions, aes(x = .resid)) +
   geom_histogram()
 ```
 
+# NOTICEABLE CHANGE
